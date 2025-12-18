@@ -16,6 +16,8 @@ import java.io.*;
 // 오름차순으로 정렬된 배열을 출력합니다.
 
 
+
+
 public class Main {
   
   static int n, m, idx_n, idx_m;
